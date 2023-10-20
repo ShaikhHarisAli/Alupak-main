@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.96" height="21" viewBox="0 0 20.96 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(253,73,198,0.35);
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Circle_Button_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Circle Button [SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(14.5 0.053)">
+    <g id="Icon_ICON_feather_phone_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Icon [ICON=feather/phone][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(-14 0)">
+      <rect id="Area_ICON:feather_phone_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE3_" data-name="Area [ICON:feather/phone][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE3]" class="cls-1" width="20" height="20" transform="translate(0.267 0)"/>
+      <g id="Icon" transform="translate(0 0.448)">
+        <path id="abe96bc4-3272-4908-87e8-0410323ed244" class="cls-2" d="M20.072,22.507c-.075,0-.151,0-.226-.01h-.009a20.475,20.475,0,0,1-8.879-3.158,20.2,20.2,0,0,1-6.171-6.173A20.447,20.447,0,0,1,1.631,4.248V4.24A2.506,2.506,0,0,1,4.124,1.507H7.156A2.518,2.518,0,0,1,9.638,3.663a12.463,12.463,0,0,0,.676,2.717,2.511,2.511,0,0,1-.564,2.643l-1,1a15.563,15.563,0,0,0,5.315,5.314l1-1a2.507,2.507,0,0,1,2.648-.566,12.378,12.378,0,0,0,2.709.675,2.506,2.506,0,0,1,2.161,2.539v3a2.507,2.507,0,0,1-2.507,2.515ZM19.941,21.5c.044,0,.088.006.132.006a1.507,1.507,0,0,0,1.507-1.513V16.981s0-.009,0-.013a1.505,1.505,0,0,0-1.3-1.529,13.372,13.372,0,0,1-2.925-.73,1.507,1.507,0,0,0-1.592.339L14.495,16.32a.5.5,0,0,1-.6.081,16.562,16.562,0,0,1-6.21-6.208.5.5,0,0,1,.081-.6L9.04,8.317A1.508,1.508,0,0,0,9.377,6.73,13.457,13.457,0,0,1,8.647,3.8,1.513,1.513,0,0,0,7.156,2.507H4.125a1.506,1.506,0,0,0-1.5,1.639,19.448,19.448,0,0,0,3,8.478A19.2,19.2,0,0,0,11.5,18.5,19.474,19.474,0,0,0,19.941,21.5Z" transform="translate(-2.12 -2.007)"/>
+      </g>
+    </g>
+  </g>
+</svg>

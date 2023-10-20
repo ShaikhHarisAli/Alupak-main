@@ -1,0 +1,44 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227.786" height="50.401" viewBox="0 0 227.786 50.401">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 34px;
+        font-family: Arial-Black, Arial Black;
+        font-weight: 800;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.039em;
+      }
+
+      .cls-6 {
+        fill: #ffd400;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="227.786" height="50.401"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2">
+    <g id="Group_1-2" data-name="Group 1" class="cls-2">
+      <text id="A" class="cls-3" transform="translate(94.726 30.92)"><tspan x="0" y="0">A</tspan></text>
+      <text id="lupak" class="cls-3" transform="translate(122.677 30.92)"><tspan class="cls-4" x="0" y="0">l</tspan><tspan class="cls-5" y="0">upa</tspan><tspan y="0">k</tspan></text>
+    </g>
+  </g>
+  <path id="Path_1" data-name="Path 1" class="cls-6" d="M182.567,118.473H130.58L133.7,108.7h23.939l-3.817-9.279h15.251Z" transform="translate(-97.825 -74.481)"/>
+  <path id="Path_2" data-name="Path 2" class="cls-6" d="M103.444,0,87.929,21.415H102.7l2.732-7.17h12.04l2.949,7.17h14.2L119.451,0Z" transform="translate(-65.872 0)"/>
+  <path id="Path_3" data-name="Path 3" class="cls-6" d="M22.722,118.473H45.244L52.5,99.419H36.526Z" transform="translate(-17.022 -74.481)"/>
+</svg>

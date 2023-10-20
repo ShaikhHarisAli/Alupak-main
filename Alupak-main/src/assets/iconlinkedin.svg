@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20.447" viewBox="0 0 21 20.447">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(253,73,198,0.35);
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Circle_Button_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Circle Button [SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0.5)">
+    <g id="Icon_ICON_feather_linkedin_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Icon [ICON=feather/linkedin][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0 0)">
+      <rect id="Area_ICON:feather_linkedin_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE3_" data-name="Area [ICON:feather/linkedin][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE3]" class="cls-1" width="20" height="20" transform="translate(0.089 0)"/>
+      <g id="Icon" transform="translate(0 0.947)">
+        <path id="_922d72e8-1313-412f-b487-f6552a802fa6" data-name="922d72e8-1313-412f-b487-f6552a802fa6" class="cls-2" d="M16,7.5A6.507,6.507,0,0,1,22.5,14v7a.5.5,0,0,1-.5.5H18a.5.5,0,0,1-.5-.5V14a1.5,1.5,0,0,0-3,0v7a.5.5,0,0,1-.5.5H10a.5.5,0,0,1-.5-.5V14A6.507,6.507,0,0,1,16,7.5Zm5.5,13V14a5.5,5.5,0,0,0-11,0v6.5h3V14a2.5,2.5,0,0,1,5,0v6.5Z" transform="translate(-2 -2)"/>
+        <path id="_0f700a85-9b07-4595-b8cc-bdb378cce2ca" data-name="0f700a85-9b07-4595-b8cc-bdb378cce2ca" class="cls-2" d="M0-.5H4a.5.5,0,0,1,.5.5V12a.5.5,0,0,1-.5.5H0A.5.5,0,0,1-.5,12V0A.5.5,0,0,1,0-.5ZM3.5.5H.5v11h3Z" transform="translate(0 7)"/>
+        <path id="_1d35e0d1-88d0-459d-a5cc-3a19236a1261" data-name="1d35e0d1-88d0-459d-a5cc-3a19236a1261" class="cls-2" d="M2-.5A2.5,2.5,0,1,1-.5,2,2.5,2.5,0,0,1,2-.5Zm0,4A1.5,1.5,0,1,0,.5,2,1.5,1.5,0,0,0,2,3.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

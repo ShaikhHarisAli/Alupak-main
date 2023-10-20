@@ -1,0 +1,30 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    screens: {
+      xs: "250px",
+      sx: "300px",
+      ssx: "350px",
+      sg: "400px",
+      ss: "481px",
+      sf: "530px",
+      se: "580px",
+      sh: "610px",
+      sm: "640px",
+      sw: "680px",
+      smm: "700px",
+      md: "768px",
+      ep: "850px",
+      np: "950px",
+      lg: "1024px",
+      xl: "1280px",
+      xm: "1320px",
+      xsm: "1370px",
+      xll: "1400px",
+      x2l: "1450px",
+      "2xl": "1536px",
+    },
+  },
+  plugins: [],
+};

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(253,73,198,0.35);
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Circle_Button_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Circle Button [SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0.5)">
+    <g id="Icon_ICON_feather_youtube_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Icon [ICON=feather/youtube][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0 0)">
+      <rect id="Area_ICON:feather_youtube_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE3_" data-name="Area [ICON:feather/youtube][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE3]" class="cls-1" width="20" height="20" transform="translate(0.188 0)"/>
+      <g id="Icon" transform="translate(0 3.42)">
+        <path id="eed61edd-a506-4a73-8d2c-02d3afb0e818" class="cls-2" d="M10.908,3.136a63.91,63.91,0,0,1,7.937.4l.017,0a3.034,3.034,0,0,1,2.113,2.178q0,.016.007.033a26.983,26.983,0,0,1,.426,4.937,26.894,26.894,0,0,1-.426,4.859q0,.017-.007.033a3.037,3.037,0,0,1-2.113,2.178l-.007,0c-1.608.43-7.689.435-7.947.435s-6.338,0-7.946-.435A3.047,3.047,0,0,1,.846,15.663q-.007-.024-.011-.048A26.968,26.968,0,0,1,.409,10.68a26.945,26.945,0,0,1,.426-4.9q0-.017.007-.033A3.037,3.037,0,0,1,2.955,3.573l.007,0C4.57,3.141,10.65,3.136,10.908,3.136ZM18.6,4.5a66.231,66.231,0,0,0-7.69-.366,55.874,55.874,0,0,0-7.685.4A2.035,2.035,0,0,0,1.816,5.978a25.944,25.944,0,0,0-.407,4.7s0,0,0,.006a25.967,25.967,0,0,0,.405,4.728A2.04,2.04,0,0,0,3.223,16.79a55.8,55.8,0,0,0,7.685.4,55.887,55.887,0,0,0,7.686-.4A2.034,2.034,0,0,0,20,15.348a25.908,25.908,0,0,0,.407-4.665A26,26,0,0,0,20,5.942,2.032,2.032,0,0,0,18.6,4.5Z" transform="translate(-0.908 -3.636)"/>
+        <path id="_2ed5260f-2467-407e-be83-4ae2f23474aa" data-name="2ed5260f-2467-407e-be83-4ae2f23474aa" class="cls-2" d="M8.863,14.154a.5.5,0,0,1-.5-.5V7.709a.5.5,0,0,1,.747-.435l5.227,2.972a.5.5,0,0,1,0,.869L9.11,14.089A.5.5,0,0,1,8.863,14.154Zm.5-5.586v4.226l3.716-2.113Z" transform="translate(-0.908 -3.636)"/>
+      </g>
+    </g>
+  </g>
+</svg>

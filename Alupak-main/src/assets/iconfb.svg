@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(253,73,198,0.35);
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Circle_Button_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Circle Button [SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0 0.052)">
+    <g id="Icon_ICON_feather_facebook_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE3_" data-name="Icon [ICON=feather/facebook][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE3]" transform="translate(0 0)">
+      <rect id="Area_ICON:feather_facebook_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE3_" data-name="Area [ICON:feather/facebook][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE3]" class="cls-1" width="20" height="20"/>
+      <g id="Icon" transform="translate(4.5 0.448)">
+        <path id="_4b29e477-778d-4b45-9c19-26a7e5632119" data-name="4b29e477-778d-4b45-9c19-26a7e5632119" class="cls-2" d="M15,1.5h3a.5.5,0,0,1,.5.5V6a.5.5,0,0,1-.5.5H15a.5.5,0,0,0-.5.5V9.5H18a.5.5,0,0,1,.485.621l-1,4A.5.5,0,0,1,17,14.5H14.5V22a.5.5,0,0,1-.5.5H10a.5.5,0,0,1-.5-.5V14.5H7a.5.5,0,0,1-.5-.5V10A.5.5,0,0,1,7,9.5H9.5V7A5.506,5.506,0,0,1,15,1.5Zm2.5,1H15A4.505,4.505,0,0,0,10.5,7v3a.5.5,0,0,1-.5.5H7.5v3H10a.5.5,0,0,1,.5.5v7.5h3V14a.5.5,0,0,1,.5-.5h2.61l.75-3H14a.5.5,0,0,1-.5-.5V7A1.5,1.5,0,0,1,15,5.5h2.5Z" transform="translate(-7 -2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
